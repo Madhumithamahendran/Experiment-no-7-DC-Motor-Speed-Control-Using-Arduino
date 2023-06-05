@@ -161,6 +161,12 @@ void loop()
 
 ### OUTPUT
 
+![robotics 6 exp before stimulation](https://github.com/Madhumithamahendran/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119394403/c82775dc-e6a0-401e-b360-6b72d5b4e94e)
+
+
+
+
+
 
 
 
