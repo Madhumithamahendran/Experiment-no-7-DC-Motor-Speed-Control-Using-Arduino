@@ -179,4 +179,5 @@ void loop()
 
 
 ### RESULTS AND DISCUSSION 
+TO control the speed and the direction of a DC motor using L239D driven successfully.
 
